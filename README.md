@@ -1,5 +1,5 @@
-Felipe Winter
-Mateus Stock
+Felipe Winter,
+Mateus Stock,
 Matheus Schvan
 
 # 🏥 MedAgenda
