@@ -1,8 +1,8 @@
 # 🏥 MedAgenda
 
-Aplicativo de agendamento médico simples, moderno e intuitivo — desenvolvido com HTML, CSS e JavaScript puro.
+Aplicativo de agendamento médico simples, moderno e intuitivo — desenvolvido com HTML, CSS e JavaScript.
 
-![MedAgenda Preview](assets/imagens/preview.png) <!-- Substitua pelo seu print ou GIF -->
+https://felipewinter22.github.io/projetosite/
 
 ---
 
