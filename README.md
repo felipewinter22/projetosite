@@ -1,3 +1,7 @@
+Felipe Winter
+Mateus Stock
+Matheus Schvan
+
 # 🏥 MedAgenda
 
 Este é um projeto simples de uma aplicação de agendamento de consultas médicas, feita com HTML, CSS e JavaScript.
