@@ -1,0 +1,64 @@
+Requisitos Funcionais (RF)
+Cadastro de Usuário (Paciente e Médico)
+ O sistema deve permitir o cadastro de pacientes e médicos com informações pessoais e de contato.
+
+
+Agendamento de Consultas
+ O sistema deve permitir que pacientes agendem consultas de acordo com a disponibilidade dos médicos.
+
+
+Alteração e Cancelamento de Consultas
+ O sistema deve permitir que o paciente altere ou cancele consultas já marcadas.
+
+
+Visualização do Histórico de Consultas
+ O sistema deve permitir que o paciente e o médico consultem o histórico de atendimentos realizados.
+
+
+Envio de Lembretes
+ O sistema deve enviar notificações ou lembretes de consultas agendadas via aplicativo, e-mail ou SMS.
+
+
+Check-in Online
+ O sistema deve permitir que o paciente faça o check-in online antes da consulta para confirmar sua presença.
+
+
+Gestão de Agenda Médica
+ O sistema deve permitir que o médico configure seus horários de atendimento e disponibilize vagas para consultas.
+
+
+Busca por Especialidade
+ O sistema deve permitir que os pacientes busquem médicos por nome, especialidade ou local de atendimento.
+
+
+Requisitos Não Funcionais (RNF)
+Usabilidade
+ O sistema deve ter uma interface simples, intuitiva e de fácil navegação para pacientes de diferentes idades.
+
+
+Desempenho
+ O sistema deve responder a solicitações de agendamento em no máximo 2 segundos.
+
+
+Segurança
+ O sistema deve proteger os dados dos pacientes utilizando criptografia e autenticação segura.
+
+
+Disponibilidade
+ O sistema deve estar disponível 24 horas por dia, 7 dias por semana, com no mínimo 99% de uptime.
+
+
+Compatibilidade
+ O sistema deve ser compatível com navegadores modernos e aplicativos mobile (Android e iOS).
+
+
+Escalabilidade
+ O sistema deve suportar o crescimento no número de usuários sem comprometer o desempenho.
+
+
+Confiabilidade
+ O sistema deve garantir que os dados de agendamentos não sejam perdidos em caso de falhas.
+
+
+Portabilidade
+ O aplicativo deve ser desenvolvido de forma a permitir futura integração com outros sistemas de saúde (ex: prontuários eletrônicos).
