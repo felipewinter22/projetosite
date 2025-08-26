@@ -12,7 +12,7 @@ Este é um projeto simples de uma aplicação de agendamento de consultas médic
 
 ## 🖼️ Preview
 
-![Preview do Projeto](assets/imagens/preview.png)
+https://felipewinter22.github.io/projetosite/
 
 ## 🚀 Como Abrir
 
